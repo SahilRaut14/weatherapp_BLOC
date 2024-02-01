@@ -47,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
             const SystemUiOverlayStyle(statusBarBrightness: Brightness.dark),
       ),
       body: Padding(
-        padding: const EdgeInsets.fromLTRB(40, 1.2 * kToolbarHeight, 40, 20),
+        padding: const EdgeInsets.fromLTRB(40, 1.2 * kToolbarHeight, 40, 21),
         child: SizedBox(
           height: MediaQuery.of(context).size.height,
           child: Stack(
@@ -266,7 +266,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             ],
                           ),
                         ],
-                      )     ,
+                      ),
                     );
                   } else {
                     return Container();
