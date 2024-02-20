@@ -1,4 +1,5 @@
 {
   "java.configuration.updateBuildConfiguration": "interactive",
-  "cmake.sourceDirectory": "E:/Flutter Dev/flutter Projects oct/newWeather_app_/newweatherapp/linux"
+  "cmake.sourceDirectory": "E:/flutter_dev/flutter_projects_oct/newWeather_app_/newweatherapp/linux",
+  "java.compile.nullAnalysis.mode": "automatic"
 }
